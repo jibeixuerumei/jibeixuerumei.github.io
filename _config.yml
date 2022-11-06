@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "蓟北雪"
-title_separator          : "-"
-name                     : &name "蓟北雪"
+title_separator          : ""
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://jibeixuerumei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "蓟北雪"
   avatar           : "profile.png"
   bio              : "HELLO WORLD"
   location         : "CHINA"
